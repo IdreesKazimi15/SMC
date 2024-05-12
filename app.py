@@ -1,4 +1,4 @@
-pip install scikit-learn
+pipreqs
 import streamlit as st
 from PIL import Image
 import numpy as np
